@@ -9,25 +9,48 @@
 
 ## Experiencia Laboral
 
-### [Nombre de la Empresa](https://www.empresa.com)
-- **Puesto:** Desarrollador de Software
-- **Fecha de Inicio - Fecha de Finalización:** MM/AAAA - MM/AAAA
+### [Nombre de la Empresa] Oahu Pokebowl 
+- **Puesto:** Dependiente / Ayudante de cocina
+- **Fecha de Inicio - Fecha de Finalización:** Marzo 2022 - Agosto 2022
+  
+- ### [Nombre de la Empresa] Slam Club - (https://www.facebook.com/Slamclub.es/)
+- **Puesto:** Monitor 
+- **Fecha de Inicio - Fecha de Finalización:** Julio 2020 - Julio 2020 / Julio 2021 - Julio 2021
 - ...
 
 ## Educación
 
-### [Nombre de la Universidad](https://www.universidad.com)
-- **Título:** Licenciatura en Informática
-- **Fecha de Graduación:** MM/AAAA
+### [Nombre de la Universidad](https://www.ifp.es/)
+- **Título:** SMX1
+- **Centro Calificado:** IFP, Hospitalet de Llobregat
+- ...
+  
+### [Nombre de la Universidad](http://www2.esci.upf.edu/es/grado-en-bioinformatica/grado-bioinformatica/)
+- **Título:** Curso Bioinformática
+- **Centro Calificado:** Campus del mar, BCN (30h)
+
+## Aptitudes
+
+- Trabajador
+- Resolutivo
+- Amable
+- Trabajo en equipo
+- Flexibilidad
+- Adapatabilidad
+- Resilencia
+- Disciplina
+- Sociable
+- Honestidad
 - ...
 
-## Habilidades
+## Extras
 
-- Desarrollo Web
-- Programación en [Lenguaje]
+- Carnet de conducción: Permiso B
+- Manejo Paquete Office
+- Microsoft Office Specialist: Excel Expert
 - ...
 
-## Proyectos Destacados
+## 
 
 - [Proyecto 1](https://github.com/tu-usuario/proyecto1)
 - [Proyecto 2](https://github.com/tu-usuario/proyecto2)
