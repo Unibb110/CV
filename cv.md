@@ -1,5 +1,5 @@
 # Curriculum Vitae
-<img src="https://github.com/Unibb110/Unibb110.github.io/blob/main/.png">
+<img src="[https://github.com/Unibb110/Unibb110.github.io/blob/main/.png](https://github.com/Unibb110/Unibb110.github.io/blob/main/Unai%20Bueno%20FOTO%20(2).png)">
 
 ## Información Personal
 
