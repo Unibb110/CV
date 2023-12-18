@@ -1,5 +1,5 @@
 # Curriculum Vitae
-img= "https://github.com/Unibb110/Unibb110.github.io/blob/main/ftcv.png"
+img = "https://github.com/Unibb110/Unibb110.github.io/blob/main/ftcv.png"
 
 ## Información Personal
 
